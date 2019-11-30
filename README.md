@@ -2,8 +2,8 @@
 
 ## 作業說明
 
-這次作業要請大家**手刻**一個 HTML 檔 (`index.html`)，目的是希望大家能了解 HTML 的格式以及 CSS selector 的使用。
-(不能透過 Rmd 或其它方式自動產生 HTML，也不能在 HTML 裡面引入其它 CSS library 或 framework)
+這次作業要請大家**手刻**一個 HTML 檔 (`index.html`)，目的是希望大家能了解 HTML 的格式以及 CSS selector 的使用。  
+(「手刻」指得是：不能透過 Rmd 或其它方式自動產生 HTML，也不能在 HTML 裡面引入其它 CSS library 或 framework)
 
 #### 基本要求 (共 100 分)
 
@@ -15,7 +15,7 @@
 1. (60 分，每條 CSS 規則各 20 分)   
 使用 CSS 裝飾的 HTML element
     - 請將 CSS 寫在 HTML 的 `<style></style>` 裡面。若直接寫在 HTML element 裡面或是使用外部檔案 (i.e. `<link></link>`)，不予計分
-    - 只少用到 **3 個 CSS selector** (3 條規則)
+    - 至少用到 **3 個 CSS selector** (3 條規則)
     - CSS selector 中，需用到 HTML element 中的 `id` 及 `class` 屬性 (各一次)
 
     範例：
