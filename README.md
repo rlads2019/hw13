@@ -38,6 +38,23 @@
 
 在**同一個 repo** 中新增另一個 HTML 檔 (請命名為 `another.html`)。`another.html` 的內容要求同上 (除了「系級、學號、姓名」不用寫)，但不可直接複製 `index.html` 的內容。在你交上的兩份 HTML 檔中 (`index.html` 與 `another.html`)，使用者要能透過文件中的連結來回前往這兩個檔案 (i.e. `index.html` 內要有連結能前往 `another.html`，反之亦然)。
 
+#### 模板
+
+你可以將下方的 HTML 直接複製到純文字檔後，再開始編輯：
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My Web Page!</title>
+    </head>
+    <body>
+        Write your title here
+    </body>
+</html>
+```
+
 
 ## 作業繳交
 
@@ -50,7 +67,6 @@
 
 - 請在**下週二 18:00** 之前將作業上傳
 - 請確認將自己的**系級、學號、姓名**寫在作業檔案內
-
 
 
 ## 尋求幫助
