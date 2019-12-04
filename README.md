@@ -8,15 +8,15 @@
 #### 基本要求 (共 100 分)
 
 1. (40 分，每個 HTML tag 各 10 分)   
-**4 種**或 4 種以上的 HTML tag (e.g. `<div></div>`, `<img>`, `<p></p>`, `<a></a>`, ...)
+需使用到**4 種**或 4 種以上的 HTML tag (e.g. `<div></div>`, `<img>`, `<p></p>`, `<a></a>`, ...)
     - 在 HTML 的內文中，必須包含 (請自行決定下列資訊要放入哪些 HTML tag):
         1. **系級**、**學號**、**姓名**
         1. 一段文字 (內容不重要，可以是 [Lorem ipsum](https://zh.wikipedia.org/wiki/Lorem_ipsum))
 1. (60 分，每條 CSS 規則各 20 分)   
-使用 CSS 裝飾的 HTML element
+需使用 CSS 裝飾 HTML element
     - 請將 CSS 寫在 HTML 的 `<style></style>` 裡面。若直接寫在 HTML element 裡面或是使用外部檔案 (i.e. `<link></link>`)，不予計分
     - 至少用到 **3 個 CSS selector** (3 條規則)
-    - CSS selector 中，需用到 HTML element 中的 `id` 及 `class` 屬性 (各一次)
+    - CSS selector 中，至少需用到 HTML element 中的 `id` 及 `class` 屬性各一次
 
     範例：
     ```html
@@ -48,6 +48,11 @@
     <head>
         <meta charset="UTF-8">
         <title>My Web Page!</title>
+        <style>
+            h1 {
+                color: red;
+            }
+        </style>
     </head>
     <body>
         Write your title here
@@ -58,9 +63,10 @@
 
 ## 作業繳交
 
-1. 請大家**自行**開一個**新的 GitHub repo**，將 `index.html`, `another.html` 與其它 dependencies (如果有的話) 上傳到此 repo。
-1. 上傳完成後，請使用 [GitHub Pages](https://pages.github.com) 的功能，將這個 repo 變成網頁
-1. 在 [Google 表單](#)中填寫 `index.html` 所在的網址
+1. 請大家**自行**開一個**新的 GitHub repo**，將 `index.html`, `another.html` 與其它 dependencies (如果有的話) 上傳到此 repo
+1. 上傳完成後，請使用 [GitHub Pages](https://pages.github.com) 的功能，將這個 repo 變成網頁，並記錄下此網頁的網址
+1. 在 [Google 表單](https://forms.gle/hPBynTGeNbv97Zsn9) 填寫 `index.html` 的網址
+    - 網址的格式應該會是 `https://<username>.github.io/<repo>/index.html`。填寫表單前，請務必先**確認網址是有效的**
 
 
 ## 注意事項
