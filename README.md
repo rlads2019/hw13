@@ -55,7 +55,7 @@
         </style>
     </head>
     <body>
-        Write your title here
+        Write your content here
     </body>
 </html>
 ```
