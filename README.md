@@ -8,7 +8,7 @@
 #### 基本要求 (共 100 分)
 
 1. (40 分，每個 HTML tag 各 10 分)   
-需使用到**4 種**或 4 種以上的 HTML tag (e.g. `<div></div>`, `<img>`, `<p></p>`, `<a></a>`, ...)
+需使用到 **4 種**或 4 種以上的 HTML tag (e.g. `<div></div>`, `<img>`, `<p></p>`, `<a></a>`, ...)
     - 在 HTML 的內文中，必須包含 (請自行決定下列資訊要放入哪些 HTML tag):
         1. **系級**、**學號**、**姓名**
         1. 一段文字 (內容不重要，可以是 [Lorem ipsum](https://zh.wikipedia.org/wiki/Lorem_ipsum))
